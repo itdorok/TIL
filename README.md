@@ -10,4 +10,4 @@
 
 ### 4월
 
-- [\[4/17\]\: Basic Git concepts](./Git)
+- [\[4/17\]\: Basic Git concepts](./Git/Git.md)
