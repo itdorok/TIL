@@ -10,5 +10,4 @@
 
 ### 4월
 
-- <a href="./Git.md">17일: Basic Git concepts</a>
-- <a href="">18일: Git</a>
+- [\[4/17\]\: Basic Git concepts](./Git)
