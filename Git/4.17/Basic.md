@@ -1,4 +1,4 @@
-<h1 style="color:cornflowerblue">[Git] Basic Git concepts</h1>
+# [Git] Basic Git concepts
 
 ## 💡 what is Git and GitHub?
 

@@ -10,5 +10,5 @@
 
 ### 4월
 
-- [\[4/17\] : Basic Git concepts](./Git/4.17/Git.md)
-- [\[4/21\] : GitHub ](./Git/4.21/)
+- [\[4/17\] : Basic Git concepts](./Git/4.17/Basic.md)
+- [\[4/21\] : GitHub ](./Git/4.21/gitHub.md)
