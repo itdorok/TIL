@@ -29,8 +29,8 @@ display: flex로 정렬
 
 # section & div
 
-  <img src="./section.png" width="45%">
-  <img src="./div.png" width="45%">
+<img src="./section.png" width="40%">
+<img src="./div.png" width="40%">
 
 ```
 √ section은 해당 페이지에서 긴밀하게 연결되어 소제목으로 나뉠 수 있는 부분
