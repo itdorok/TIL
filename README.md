@@ -11,3 +11,5 @@
 ---
 
 ### 👩🏻‍💻 [\[Omnifood_Project\] : Hero section](./omnifood--hero/README.md)
+
+### 👩🏻‍💻 [\[Omnifood_Project\] : Featured-in / How / Meals / testimonials section](./omnifood--meals/README.md)
