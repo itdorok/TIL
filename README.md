@@ -10,6 +10,10 @@
 
 ---
 
-### 👩🏻‍💻 [\[Omnifood_Project\] : Hero section](./omnifood--hero/README.md)
+## **_omnifood-project_**
 
-### 👩🏻‍💻 [\[Omnifood_Project\] : Featured-in / How / Meals / testimonials section](./omnifood--meals/README.md)
+### 👩🏻‍💻 [\[Hero section\]](./omnifood--hero/README.md)
+
+### 👩🏻‍💻 [\[Featured-in / How / Meals / Testimonials section\]](./omnifood--meals/README.md)
+
+### 👩🏻‍💻 [\[CTA section\]](./omnifood--cta/README.md)
