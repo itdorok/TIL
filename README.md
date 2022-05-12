@@ -17,3 +17,5 @@
 ### 👩🏻‍💻 [\[Featured-in / How / Meals / Testimonials section\]](./omnifood--meals/README.md)
 
 ### 👩🏻‍💻 [\[CTA section\]](./omnifood--cta/README.md)
+
+### 👩🏻‍💻 [\[Query\]](./omnifood--cta/README.md)
