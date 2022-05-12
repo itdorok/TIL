@@ -51,10 +51,4 @@
 
 ---
 
-## **_mobile nav bar_**
-
-```
-창의 크기가 줄어들면 상단의 navigation을 토글 형식으로 바꿔주어  layout의 효율을 늘린다.
-```
-
-<img src="https://user-images.githubusercontent.com/82014471/167984638-ca9746ae-57aa-49a2-b197-8fabb9158b38.gif" width="70%">
+### [JavaScript Effects](../omnifood--javascript/README.md)
