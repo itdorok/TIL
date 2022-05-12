@@ -14,25 +14,25 @@
 
 #### 🩻 CSS
 
-### [\[Hero section\]](./omnifood--hero/README.md)
+### [\[Hero section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--hero/README.md)
 
-### [\[Featured-in / How / Meals / Testimonials section\]](./omnifood--meals/README.md)
+### [\[Featured-in / How / Meals / Testimonials section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--meals/README.md)
 
-### [\[CTA section\]](./omnifood--cta/README.md)
+### [\[CTA section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--cta/README.md)
 
-### [\[Query\]](./omnifood--query/README.md)
+### [\[Query\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--query/README.md)
 
 ### 🏃🏻‍♀️ javaScript
 
-### [\[Toggle nav bar\]](./omnifood--mobile-nav-bar/README.md)
+### [\[Toggle nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--mobile-nav-bar/README.md)
 
-### [\[Sticky nav bar\]](./omnifood--sticky-nav/README.md)
+### [\[Sticky nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--sticky-nav/README.md)
 
-### [\[Smooth scroll\]](./omnifood--smooth-scroll/README.md)
+### [\[Smooth scroll\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--smooth-scroll/README.md)
 
 ### 🔎 Optimization
 
-### [\[Optimization\]](./omnifood--optimization/README.md)
+### [\[Optimization\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--optimization/README.md)
 
 <br>
 
