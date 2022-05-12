@@ -18,4 +18,4 @@
 
 ### 👩🏻‍💻 [\[CTA section\]](./omnifood--cta/README.md)
 
-### 👩🏻‍💻 [\[Query\]](./omnifood--cta/README.md)
+### 👩🏻‍💻 [\[Query\]](./omnifood--query/README.md)
