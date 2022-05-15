@@ -1,3 +1,5 @@
+# **_JavaScript fundamentals-1_**
+
 ## NaN은 invalid number
 
 typeof NaN >> number
