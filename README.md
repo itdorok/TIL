@@ -58,3 +58,7 @@ Netlify 사이트에서 deploy하고 form 작성
 
 ✓ **_form에 name="sign-up" netlify 포함_**<br>
 ✓ **_input에 name attribute 포함 (이름은 상관 없음)_**
+
+---
+
+### [\[javaScript\] : fundamentals-1 ](./Responsive/README.md)
