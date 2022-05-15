@@ -62,3 +62,5 @@ Netlify 사이트에서 deploy하고 form 작성
 ---
 
 ### [\[javaScript\] : fundamentals-1 ](JavaScript/fundamentals-1.md)
+
+### [\[javaScript\] : fundamentals-2 ](JavaScript/fundamentals-2.md)
