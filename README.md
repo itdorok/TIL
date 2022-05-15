@@ -61,4 +61,4 @@ Netlify 사이트에서 deploy하고 form 작성
 
 ---
 
-### [\[javaScript\] : fundamentals-1 ](./Responsive/README.md)
+### [\[javaScript\] : fundamentals-1 ](JavaScript/fundamentals-1.md)
