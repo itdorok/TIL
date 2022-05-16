@@ -1,12 +1,12 @@
 # **_JavaScript fundamentals-1_**
 
-## NaN은 invalid number
+## **_NaN은 invalid number_**
 
-typeof NaN >> number
+        typeof NaN >> number
 
 ---
 
-## string calculation
+## **_string calculation_**
 
 ```
 1 string을 더하면 string으로 취급하고 concatenate
@@ -20,7 +20,7 @@ typeof NaN >> number
 
 ---
 
-## falsy values
+## **_falsy values_**
 
 ```
 0, “ ”, undefined, null, NaN
@@ -28,7 +28,7 @@ typeof NaN >> number
 
 ---
 
-## Equality type coercion
+## **_Equality type coercion_**
 
     prompt(“”): 사용자에게 input을 얻을 수 있음
     typeof prompt: string
@@ -41,7 +41,7 @@ typeof NaN >> number
 
 ---
 
-## Logical Operators
+## **_Logical Operators_**
 
 <br>
 
@@ -55,7 +55,7 @@ typeof NaN >> number
 
 ---
 
-## switch
+## **_switch_**
 
     strict comparison(===)으로 비교후 결과 도출
     √ switch, case “”:, break
@@ -73,7 +73,7 @@ switch (day) {
 
 ---
 
-## statement / expression
+## **_statement / expression_**
 
 <br>
 
@@ -99,7 +99,7 @@ true && false || true
 
 ---
 
-## conditional operator (ternary)
+## **_conditional operator (ternary)_**
 
 if-else statement를 간결하게 표현
 
