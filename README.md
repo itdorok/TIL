@@ -66,3 +66,7 @@ Netlify 사이트에서 deploy하고 form 작성
 ### [\[javaScript\] : fundamentals-2 ](JavaScript/fundamentals-2.md)
 
 ### [\[javaScript\] : Function ](JavaScript/function.md)
+
+### [\[javaScript\] : Arrays ](JavaScript/Arrays.md)
+
+### [\[javaScript\] : Data Structure - Object ](JavaScript/Object.md)
