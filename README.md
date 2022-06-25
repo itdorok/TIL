@@ -14,25 +14,25 @@
 
 #### 🩻 CSS
 
-### [\[Hero section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--hero/README.md)
+### [\[Hero section\]](hhttps://github.com/itdorok/Omnifood-project/blob/main/omnifood--hero/hero.md)
 
-### [\[Featured-in / How / Meals / Testimonials section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--meals/README.md)
+### [\[Featured-in / How / Meals / Testimonials section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--meals/meals.md)
 
-### [\[CTA section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--cta/README.md)
+### [\[CTA section\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--cta/cta.md)
 
-### [\[Query\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--query/README.md)
+### [\[Query\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--query/query.md)
 
 ### 🏃🏻‍♀️ javaScript
 
-### [\[Toggle nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--mobile-nav-bar/README.md)
+### [\[Toggle nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--mobile-nav-bar/mobile-nav.md)
 
-### [\[Sticky nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--sticky-nav/README.md)
+### [\[Sticky nav bar\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--sticky-nav/sticky-nav.md)
 
-### [\[Smooth scroll\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--smooth-scroll/README.md)
+### [\[Smooth scroll\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--smooth-scroll/smooth-scroll.md)
 
 ### 🔎 Optimization
 
-### [\[Optimization\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--optimization/README.md)
+### [\[Optimization\]](https://github.com/itdorok/Omnifood-project/blob/main/omnifood--optimization/optimization.md)
 
 <br>
 
@@ -61,12 +61,18 @@ Netlify 사이트에서 deploy하고 form 작성
 
 ---
 
-### [\[javaScript\] : fundamentals-1 ](JavaScript/fundamentals-1.md)
+## **_JS Fundamental_**
 
-### [\[javaScript\] : fundamentals-2 ](JavaScript/fundamentals-2.md)
+### [ fundamentals-1 ](JavaScript/Fundamental/fundamentals-1.md)
 
-### [\[javaScript\] : Function ](JavaScript/function.md)
+### [ fundamentals-2 ](JavaScript/Fundamental/fundamentals-2.md)
 
-### [\[javaScript\] : Arrays ](JavaScript/Arrays.md)
+### [ Function ](JavaScript/Fundamental/function.md)
 
-### [\[javaScript\] : Data Structure - Object ](JavaScript/Object.md)
+### [ Arrays ](JavaScript/Fundamental/Arrays.md)
+
+### [ Data Structure - Object ](JavaScript/Fundamental/Object.md)
+
+## **_JS How Works_**
+
+### [JS Engine](JavaScript/How-works/engine.md)
