@@ -171,6 +171,8 @@ me.hi(); // undefined
 
     call stack에서 heap 메모리 주소를 가리키고 value 값이 사용됨
 
+---
+
 ### **_🚨 값 복제 문제_**
 
 ```javascript
@@ -194,4 +196,22 @@ console.log(me.age); // 24
 console.log(copyMe.age); //24
 ```
 
-    copyMe 역시 age라는 값을 갖게 된다.
+    age값을 할당하지 않은 copyMe에도 me object처럼  age 값이 생김
+
+---
+
+### **_✨ Object . assign ( )_**
+
+```javascript
+const me = {
+  name: "soo",
+  age: 26,
+};
+
+const hi = Object.assign({}, me);
+hi.job = "none";
+
+console.log(hi, me); // hi만 job value를 가짐
+```
+
+🚫 **_문제점: 중첩된 inner object는 복사되지 않음_**
