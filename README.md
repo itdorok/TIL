@@ -75,4 +75,6 @@ Netlify 사이트에서 deploy하고 form 작성
 
 ## **_JS How Works_**
 
-### [JS Engine](JavaScript/How-works/engine.md)
+### [Engine](JavaScript/How-works/engine.md)
+
+### [Destructuring](JavaScript/How-works/destructuring.md)
