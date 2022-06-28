@@ -1,3 +1,7 @@
+# Spread operator
+
+    to build new arrays or to pass the multiple values into a function
+
 ```javascript
 const restaurant = {
   name: "Classico Italiano",
