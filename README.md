@@ -80,3 +80,5 @@ Netlify 사이트에서 deploy하고 form 작성
 ### [Destructuring](JavaScript/How-works/destructuring.md)
 
 ### [Spread Operator](JavaScript/section10/operators/spreadOP.md)
+
+### [Spread Operator](JavaScript/section10/operators/restOP.md)
