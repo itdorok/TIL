@@ -2,6 +2,8 @@
 
     to build new arrays or to pass the multiple values into a function
 
+    unpack arrays,objects
+
 ```javascript
 const restaurant = {
   name: "Classico Italiano",
@@ -81,6 +83,7 @@ console.log(newRestaurant);
 
 const restaurantCopy = { ...restaurant };
 restaurantCopy.name = "Ristorante Roma";
+
 console.log(restaurantCopy.name);
-console.log(restaurant.name);
+console.log(restaurant.name); // 서로 다른 결과
 ```
