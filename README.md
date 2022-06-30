@@ -81,4 +81,4 @@ Netlify 사이트에서 deploy하고 form 작성
 
 ### [Spread Operator](JavaScript/section10/operators/spreadOP.md)
 
-### [Spread Operator](JavaScript/section10/operators/restOP.md)
+### [Rest Operator](JavaScript/section10/operators/restOP.md)
